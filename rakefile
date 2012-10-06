@@ -1,0 +1,6 @@
+task :default => :mostrar 
+
+desc "Tarea por defecto"
+task :mostrar do
+	puts "Mostrar algo"
+	end
